@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "hS/CzUMSV+KnDb4h/HAPrpyXdjmj/+lrnU7vC2oQ7xP250UkC0+Ny4rigqL9+x0oLCL5LXv4sFxtDuVSL6QHXg==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\C#\\azure-webpubsub\\samples\\csharp\\clientpubsub\\clientpub\\clientpub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.16.0\\azure.core.1.16.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\azure.core.experimental\\0.1.0-preview.14\\azure.core.experimental.0.1.0-preview.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\azure.messaging.webpubsub\\1.0.0-beta.2\\azure.messaging.webpubsub.1.0.0-beta.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.threading.channels\\4.7.0\\system.threading.channels.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\websocket.client\\4.3.30\\websocket.client.4.3.30.nupkg.sha512"
+  ],
+  "logs": []
+}
